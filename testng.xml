@@ -1,0 +1,7 @@
+<suite name="AmazonTestSuite">
+    <test name="Smoke Testsuite">
+        <classes>
+            <class name="UITestSuite"></class>
+        </classes>
+    </test>
+</suite>
